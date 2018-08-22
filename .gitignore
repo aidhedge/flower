@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+venv-flower/
 build/
 develop-eggs/
 dist/
@@ -86,6 +87,8 @@ celerybeat-schedule
 .venv
 env/
 venv/
+venv-flower/
+./venv-flower
 ENV/
 env.bak/
 venv.bak/
